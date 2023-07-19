@@ -186,6 +186,94 @@ main {
      margin-bottom: 15px;
 }
 
+/* features love section */
+.features-love {
+     display: flex;
+     background: #FFF;
+     margin-top: 130px;
+     padding-left: 35px;
+
+}
+
+
+.features-contents-title {
+     color: #131313;
+     font-size: 42px;
+     font-weight: 700;
+     border-left: 5px solid #FF900E;
+     padding-left: 15px;
+}
+
+.features-contents-description {
+     color: #727272;
+     font-size: 16px;
+     font-weight: 400;
+     line-height: 26px;
+     margin-top: 10px;
+}
+
+.card {
+     border-radius: 8px;
+     background: #FFF;
+     box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.06);
+     padding: 10px;
+     margin-top: 14px;
+}
+
+
+.card-title {
+     color: #131313;
+     font-size: 20px;
+     font-weight: 600;
+     margin-bottom: 10px;
+
+
+}
+
+.card-description {
+     color: #727272;
+     font-size: 16px;
+     font-weight: 400;
+     line-height: 26px;
+}
+
+.features-contents-img {
+     padding-left: 150px;
+}
+
+.btn {
+     border-radius: 8px;
+     background: #FF900E;
+     width: 280px;
+     height: 160px;
+     border: none;
+     padding: 15px;
+     position:relative;
+     top: -12%;
+     left: -13%;
+
+     
+     
+
+}
+
+.bolder {
+     color: #FFF;
+     text-align: center;
+     font-size: 50px;
+     font-weight: 700;
+     line-height: 70px;
+}
+
+.thin {
+     color: #FFF;
+     font-size: 25px;
+     font-weight: 500;
+     line-height: 40px;
+}
+
+
+
 /* facts section */
 
 .facts-headline {
@@ -266,7 +354,26 @@ main {
      gap: 50px;
 
 }
-.sponsors-images img{
+
+.sponsors-images img {
      width: 150px;
      height: 50px;
+}
+
+/* footer section */
+
+.section-footer {
+     text-align: center;
+     border-radius: 8px;
+     background: #fff4e5;
+     margin: 100px;
+     padding: 30px;
+}
+
+.section-footer-description {
+     color: #424242;
+     text-align: center;
+     font-size: 20px;
+     font-weight: 400;
+
 }
