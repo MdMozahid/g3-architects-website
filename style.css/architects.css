@@ -194,7 +194,7 @@ main {
      font-weight: 700;
      margin-top: 100px;
      margin-bottom: 20px;
-     
+
 
 }
 
@@ -209,7 +209,7 @@ main {
 .facts-card-container {
      display: flex;
      justify-content: space-around;
-     
+
 }
 
 .facts-card-container .card {
@@ -238,4 +238,35 @@ main {
      margin-top: 5px;
 }
 
- 
+.sponsors {
+     text-align: center;
+}
+
+.section-sponsors {
+     color: #131313;
+     font-size: 45px;
+     font-weight: 700;
+     margin-top: 150px;
+     margin-bottom: 20px;
+}
+
+.section-sponsors-text {
+     color: #727272;
+     font-size: 16px;
+     font-weight: 400;
+     line-height: 26px;
+     margin-bottom: 50px;
+     padding: 0px 450px;
+}
+
+.sponsors-images {
+     display: flex;
+     justify-content: space-evenly;
+     margin-bottom: 150px;
+     gap: 50px;
+
+}
+.sponsors-images img{
+     width: 150px;
+     height: 50px;
+}
